@@ -1,5 +1,7 @@
 # Mad Lion´s Front Theme
 
+
+Url de la web estatica: https://lucatic-ed13.github.io/MadLionsFront/
 Paleta:
 
 primaryYellow: #ff637d;
