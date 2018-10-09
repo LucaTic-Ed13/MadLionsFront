@@ -128,13 +128,13 @@ p {
 .intro {
   position: relative;
 }
-#filter{
-  padding: 30px;
-}
-#galleryMain{
-  padding: 30px;
-}
 
+#galleryIndex{
+  padding: 30px;
+}
+#containerGallery{
+  padding:30px;
+}
 @media (min-width: 992px) {
   .intro .intro-img {
     width: 75%;
